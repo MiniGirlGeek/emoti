@@ -2,7 +2,7 @@
 emoti is a program which contains a large bank of emoticons, and prints them out to the terminal when requested. emoticons are requested by passing arguments to the program, where each argument is a category (or type) or emoticon - they are then outputted onto a new line. new ones are welcome, however I cannot guarantee an update.
 
 It is licenced under the GNU General Public licence v2, see the file LICENCE for more details.
-
+ 
 =======
 LICENCE
 =======
